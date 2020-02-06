@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * Module dependencies.
+ * Module dependencies. Install from npm
  */
 
 var InvalidArgumentError = require('oauth2-server/lib/errors/invalid-argument-error');
